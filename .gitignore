@@ -1,0 +1,15 @@
+# Maven #
+*/target/
+
+# IDEA #
+.idea
+*.iml
+
+# ELSE #
+*.log
+logs
+
+
+
+
+
